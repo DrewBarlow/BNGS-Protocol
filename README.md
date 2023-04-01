@@ -5,7 +5,7 @@ Author: Drew Barlow
 
 This was developed solely on Windows 10.
 Tested in Powershell.
-Python Version: 3.9.9
+Python Version: 3.9.9.
 
 Running Instructions:
 (Please always run the server first!)
